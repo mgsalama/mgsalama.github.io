@@ -1,7 +1,7 @@
 <p align="center">
-
-# Manaar Salama
-
+<header>
+Manaar Salama
+</header>
 </p>
 
 ## Hello there! Welcome to my homepage.
