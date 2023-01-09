@@ -1,3 +1,6 @@
-## Hello there! Welcome to my homepage.
+## Hello there! In the process of learning Github pages. More soon!
 
-My name is Manaar Salama, and I'm currently a third-year student at UC Berkeley studying data science, with a domain emphasis in Economics.
+To be implemented:
+* About Me
+* Projects & Experience
+* Resume & Contact Info
