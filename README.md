@@ -1,8 +1,9 @@
 ## Hello there! 
 
-In the process of learning Github pages. More soon!
+Site still currently in development.
 
-To be implemented:
+Pages still to be implemented:
 * About Me
-* Projects & Experience
-* Resume & Contact Info
+* Resume
+
+Feel free to read the `README.txt` for information on the theme and template used.
