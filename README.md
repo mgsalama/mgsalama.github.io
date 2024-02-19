@@ -1,9 +1,5 @@
 ## Hello there! 
 
-[Site still currently in development.](https://mgsalama.github.io)
+[Site mostly developed and functional.](https://mgsalama.github.io) Will update occasionally with any resume changes or project updates.
 
-Pages still to be implemented:
-* About Me
-* Resume
-
-Feel free to read the `README.txt` for information on the theme and template used.
+Theme not developed by me! Feel free to read the `README.txt` for information on the theme and template used. Thanks!
